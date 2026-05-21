@@ -1,5 +1,3 @@
-// script.js
-
 // Validação simples do formulário
 
 const form = document.getElementById("formContato");
