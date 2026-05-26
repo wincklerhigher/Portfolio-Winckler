@@ -164,6 +164,13 @@ header {
   padding: 30px;
   border-radius: 18px;
   border: 1px solid #232734;
+
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  border-color: #7c8cff;
 }
 
 .card h3 {
